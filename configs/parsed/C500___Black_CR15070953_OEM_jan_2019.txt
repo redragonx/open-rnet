@@ -1,0 +1,49 @@
+======================================================================
+R-NET CONFIGURATION: CR15070953-OEM-jan-2019.R-net
+======================================================================
+
+BASIC INFO
+----------------------------------------
+  File size:     7814 bytes
+  Serial:        CR15070953
+  Header magic:  03000000
+  Checksum:      0000622c
+  XOR patterns:  20
+
+SPEED PROFILES
+----------------------------------------
+  Name                   Fwd   Rev   Acc   Dec  Turn
+  -------------------- ----- ----- ----- ----- -----
+  Indoor                  32    32    32    32     0
+  Normal                  32    32    32    32     0
+  Profile 3               32    32    32    32     0
+  Profile 4               32    32    32    32     0
+  Profile 5               32    32    32    32     0
+  Profile 6               32    32    32    32     0
+  Profile 7               32    32    32    32     0
+  Attendant               32    32    32    32     0
+
+MOTOR SETTINGS
+----------------------------------------
+  Base current:  100%
+  Max current:   100%
+
+  Profile current limits:
+    Profile 1: 100%  (offset 0x0B23)
+    Profile 2: 100%  (offset 0x0B30)
+    Profile 3: 100%  (offset 0x0B3D)
+    Profile 4: 100%  (offset 0x0B4A)
+    Profile 5: 100%  (offset 0x0B57)
+    Profile 6: 100%  (offset 0x0B64)
+    Profile 7: 100%  (offset 0x0B71)
+    Profile 8: 100%  (offset 0x0B7E)
+    Profile 9: 100%  (offset 0x0B8B)
+    Profile 10: 100%  (offset 0x0B98)
+    Profile 11: 100%  (offset 0x0BA5)
+    Profile 12: 100%  (offset 0x0BB2)
+
+SEATING FUNCTIONS
+----------------------------------------
+  Recline          @ 0x08A8  speed=32
+  Tilt             @ 0x08BC  speed=32
+

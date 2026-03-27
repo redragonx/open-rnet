@@ -1,0 +1,2524 @@
+[
+  {
+    "file": "Frontier V6 stock OEM-CS14050871.R-net",
+    "size": 7041,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "0000dfeb",
+      "checksum": "8c590000"
+    },
+    "speed_profiles": [
+      {
+        "name": "SLOWEST",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "SLOW",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "MEDIUM",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "FAST",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "V6AT FAST",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 251
+      },
+      {
+        "name": "Profile 7",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "Attendant",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 55,
+      "profile_2": 55,
+      "profile_3": 55,
+      "profile_4": 55,
+      "profile_5": 55,
+      "profile_6": 55,
+      "profile_7": 55,
+      "profile_8": 55,
+      "profile_9": 55,
+      "profile_10": 55,
+      "profile_11": 55,
+      "profile_12": 55
+    },
+    "seating": [
+      {
+        "name": "Tilt",
+        "speed": 83
+      },
+      {
+        "name": "Seat Lift",
+        "speed": 82
+      },
+      {
+        "name": "Recline",
+        "speed": 84
+      },
+      {
+        "name": "Transfer Tilt",
+        "speed": 76
+      },
+      {
+        "name": "Leg",
+        "speed": 76
+      },
+      {
+        "name": "Layback",
+        "speed": 32
+      }
+    ]
+  },
+  {
+    "file": "Sept-2017-V6-120-FINAL-no-ESP.R-net",
+    "size": 6121,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "00007832",
+      "checksum": "cc590000"
+    },
+    "speed_profiles": [
+      {
+        "name": "SLOWEST",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "SLOW",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "MED",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "FAST",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "V6AT FAST",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 6",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 7",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "Attendant",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 55,
+      "profile_2": 55,
+      "profile_3": 55,
+      "profile_4": 55,
+      "profile_5": 55,
+      "profile_6": 55,
+      "profile_7": 55,
+      "profile_8": 55,
+      "profile_9": 55,
+      "profile_10": 55,
+      "profile_11": 55,
+      "profile_12": 55
+    },
+    "seating": [
+      {
+        "name": "Elevator",
+        "speed": 82
+      },
+      {
+        "name": "Recline",
+        "speed": 84
+      },
+      {
+        "name": "Tilt",
+        "speed": 84
+      }
+    ]
+  },
+  {
+    "file": "Frontier V6 stock OEM-MOD CS14050871.R-net",
+    "size": 5981,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "0000dfeb",
+      "checksum": "8c590000"
+    },
+    "speed_profiles": [
+      {
+        "name": "SLOWEST",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "SLOW",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "MEDIUM",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "FAST",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "V6AT FAST",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 251
+      },
+      {
+        "name": "Profile 7",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "Attendant",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 55,
+      "profile_2": 55,
+      "profile_3": 55,
+      "profile_4": 55,
+      "profile_5": 55,
+      "profile_6": 55,
+      "profile_7": 55,
+      "profile_8": 55,
+      "profile_9": 55,
+      "profile_10": 55,
+      "profile_11": 55,
+      "profile_12": 55
+    },
+    "seating": [
+      {
+        "name": "Tilt",
+        "speed": 83
+      },
+      {
+        "name": "Seat Lift",
+        "speed": 82
+      },
+      {
+        "name": "Recline",
+        "speed": 84
+      },
+      {
+        "name": "Transfer Tilt",
+        "speed": 76
+      },
+      {
+        "name": "Leg",
+        "speed": 76
+      },
+      {
+        "name": "Layback",
+        "speed": 32
+      }
+    ]
+  },
+  {
+    "file": "2021-backup-90amp-CS14050871.R-net",
+    "size": 7264,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "0000c4da",
+      "checksum": "21600000"
+    },
+    "speed_profiles": [
+      {
+        "name": "SLOWEST",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "SLOW",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "MEDIUM",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "FAST",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "V6AT FAST",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 251
+      },
+      {
+        "name": "Profile 7",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "Attendant",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 100,
+      "profile_2": 100,
+      "profile_3": 100,
+      "profile_4": 100,
+      "profile_5": 100,
+      "profile_6": 100,
+      "profile_7": 100,
+      "profile_8": 100,
+      "profile_9": 100,
+      "profile_10": 100,
+      "profile_11": 100,
+      "profile_12": 100
+    },
+    "seating": [
+      {
+        "name": "Tilt",
+        "speed": 83
+      },
+      {
+        "name": "Seat Lift",
+        "speed": 82
+      },
+      {
+        "name": "Recline",
+        "speed": 84
+      },
+      {
+        "name": "Transfer Tilt",
+        "speed": 76
+      },
+      {
+        "name": "Leg",
+        "speed": 76
+      },
+      {
+        "name": "Layback",
+        "speed": 32
+      }
+    ]
+  },
+  {
+    "file": "v6 120 mod-4-test OEM CR14121385.R-net",
+    "size": 6121,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "0000fd31",
+      "checksum": "a6590000"
+    },
+    "speed_profiles": [
+      {
+        "name": "SLOWEST",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "SLOW",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "MED",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "FAST",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "V6AT FAST",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 6",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 7",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "Attendant",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 55,
+      "profile_2": 55,
+      "profile_3": 55,
+      "profile_4": 55,
+      "profile_5": 55,
+      "profile_6": 55,
+      "profile_7": 55,
+      "profile_8": 55,
+      "profile_9": 55,
+      "profile_10": 55,
+      "profile_11": 55,
+      "profile_12": 55
+    },
+    "seating": [
+      {
+        "name": "Elevator",
+        "speed": 82
+      },
+      {
+        "name": "Recline",
+        "speed": 84
+      },
+      {
+        "name": "Tilt",
+        "speed": 84
+      }
+    ]
+  },
+  {
+    "file": "Sept-2017-V6-120-FINAL-no-ESP-2.R-net",
+    "size": 6121,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "00007832",
+      "checksum": "cc590000"
+    },
+    "speed_profiles": [
+      {
+        "name": "SLOWEST",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "SLOW",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "MED",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "FAST",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "V6AT FAST",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 6",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 7",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "Attendant",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 55,
+      "profile_2": 55,
+      "profile_3": 55,
+      "profile_4": 55,
+      "profile_5": 55,
+      "profile_6": 55,
+      "profile_7": 55,
+      "profile_8": 55,
+      "profile_9": 55,
+      "profile_10": 55,
+      "profile_11": 55,
+      "profile_12": 55
+    },
+    "seating": [
+      {
+        "name": "Elevator",
+        "speed": 82
+      },
+      {
+        "name": "Recline",
+        "speed": 84
+      },
+      {
+        "name": "Tilt",
+        "speed": 84
+      }
+    ]
+  },
+  {
+    "file": "v6 120 mod-2 OEM CR14121385.R-net",
+    "size": 6121,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "00007634",
+      "checksum": "8d590000"
+    },
+    "speed_profiles": [
+      {
+        "name": "SLOWEST",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "SLOW",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "MED",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "FAST",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "V6AT FAST",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 6",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 7",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "Attendant",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 55,
+      "profile_2": 55,
+      "profile_3": 55,
+      "profile_4": 55,
+      "profile_5": 55,
+      "profile_6": 55,
+      "profile_7": 55,
+      "profile_8": 55,
+      "profile_9": 55,
+      "profile_10": 55,
+      "profile_11": 55,
+      "profile_12": 55
+    },
+    "seating": [
+      {
+        "name": "Elevator",
+        "speed": 82
+      },
+      {
+        "name": "Recline",
+        "speed": 84
+      },
+      {
+        "name": "Tilt",
+        "speed": 84
+      }
+    ]
+  },
+  {
+    "file": "v6 120 mod OEM CR14121385.R-net",
+    "size": 7181,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "00009d2c",
+      "checksum": "8d590000"
+    },
+    "speed_profiles": [
+      {
+        "name": "Indoor",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Normal",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 3",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 4",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 5",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 6",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 7",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "Attendant",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 55,
+      "profile_2": 55,
+      "profile_3": 55,
+      "profile_4": 55,
+      "profile_5": 55,
+      "profile_6": 55,
+      "profile_7": 55,
+      "profile_8": 55,
+      "profile_9": 55,
+      "profile_10": 55,
+      "profile_11": 55,
+      "profile_12": 55
+    },
+    "seating": [
+      {
+        "name": "Elevator",
+        "speed": 82
+      },
+      {
+        "name": "Recline",
+        "speed": 84
+      },
+      {
+        "name": "Tilt",
+        "speed": 76
+      },
+      {
+        "name": "Leg",
+        "speed": 77
+      }
+    ]
+  },
+  {
+    "file": "v6 120 mod-3 OEM CR14121385.R-net",
+    "size": 6121,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "0000fd31",
+      "checksum": "a6590000"
+    },
+    "speed_profiles": [
+      {
+        "name": "SLOWEST",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "SLOW",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "MED",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "FAST",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "V6AT FAST",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 6",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 7",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "Attendant",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 55,
+      "profile_2": 55,
+      "profile_3": 55,
+      "profile_4": 55,
+      "profile_5": 55,
+      "profile_6": 55,
+      "profile_7": 55,
+      "profile_8": 55,
+      "profile_9": 55,
+      "profile_10": 55,
+      "profile_11": 55,
+      "profile_12": 55
+    },
+    "seating": [
+      {
+        "name": "Elevator",
+        "speed": 82
+      },
+      {
+        "name": "Recline",
+        "speed": 84
+      },
+      {
+        "name": "Tilt",
+        "speed": 84
+      }
+    ]
+  },
+  {
+    "file": "oem-CR16125104.R-net",
+    "size": 7979,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "000012ec",
+      "checksum": "e2630000"
+    },
+    "speed_profiles": [
+      {
+        "name": "Indoor",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Normal",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 3",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 4",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 5",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 6",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 7",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "Attendant",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 100,
+      "profile_2": 100,
+      "profile_3": 100,
+      "profile_4": 100,
+      "profile_5": 100,
+      "profile_6": 100,
+      "profile_7": 100,
+      "profile_8": 100,
+      "profile_9": 100,
+      "profile_10": 100,
+      "profile_11": 100,
+      "profile_12": 100
+    },
+    "seating": []
+  },
+  {
+    "file": "OEM-MOD-CS13124566.R-net",
+    "size": 7274,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "00008a2f",
+      "checksum": "df610000"
+    },
+    "speed_profiles": [
+      {
+        "name": "Indoor",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Normal",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "**SOCCER**",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 4",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 5",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 6",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 7",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "Attendant",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 0,
+      "profile_2": 224,
+      "profile_3": 2,
+      "profile_4": 0,
+      "profile_5": 1,
+      "profile_6": 4,
+      "profile_7": 0,
+      "profile_8": 1,
+      "profile_9": 0,
+      "profile_10": 234,
+      "profile_11": 2,
+      "profile_12": 0
+    },
+    "seating": []
+  },
+  {
+    "file": "OEM-CS13124566.R-net",
+    "size": 7522,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "00008a2f",
+      "checksum": "df610000"
+    },
+    "speed_profiles": [
+      {
+        "name": "Indoor",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Normal",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "**SOCCER**",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 4",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 5",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 6",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 7",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "Attendant",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 0,
+      "profile_2": 255,
+      "profile_3": 0,
+      "profile_4": 0,
+      "profile_5": 0,
+      "profile_6": 0,
+      "profile_7": 0,
+      "profile_8": 3,
+      "profile_9": 0,
+      "profile_10": 0,
+      "profile_11": 238,
+      "profile_12": 4
+    },
+    "seating": []
+  },
+  {
+    "file": "3-2022-OEM-MOD-CR17122192.R-net",
+    "size": 7742,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "000035d0",
+      "checksum": "1f620000"
+    },
+    "speed_profiles": [
+      {
+        "name": "Indoor",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Normal",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "High Torque",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 4",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 5",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 6",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 7",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "Attendant",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 100,
+      "profile_2": 100,
+      "profile_3": 100,
+      "profile_4": 100,
+      "profile_5": 100,
+      "profile_6": 100,
+      "profile_7": 100,
+      "profile_8": 100,
+      "profile_9": 100,
+      "profile_10": 100,
+      "profile_11": 100,
+      "profile_12": 100
+    },
+    "seating": []
+  },
+  {
+    "file": "C-500-black-OEM-CS13093419-mod-120amp-2.R-net",
+    "size": 7731,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "000031ea",
+      "checksum": "575a0000"
+    },
+    "speed_profiles": [
+      {
+        "name": "Indoor",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Normal",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 3",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 4",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 5",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 6",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 7",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "Attendant",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 55,
+      "profile_2": 55,
+      "profile_3": 55,
+      "profile_4": 55,
+      "profile_5": 55,
+      "profile_6": 55,
+      "profile_7": 55,
+      "profile_8": 55,
+      "profile_9": 55,
+      "profile_10": 55,
+      "profile_11": 55,
+      "profile_12": 55
+    },
+    "seating": [
+      {
+        "name": "Recline",
+        "speed": 84
+      },
+      {
+        "name": "Tilt",
+        "speed": 70
+      }
+    ]
+  },
+  {
+    "file": "C-500-black-OEM-CS13093419.R-net",
+    "size": 7563,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "00000246",
+      "checksum": "545a0000"
+    },
+    "speed_profiles": [
+      {
+        "name": "Indoor",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Normal",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 3",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 4",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 5",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 6",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 7",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "Attendant",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 55,
+      "profile_2": 55,
+      "profile_3": 55,
+      "profile_4": 55,
+      "profile_5": 55,
+      "profile_6": 55,
+      "profile_7": 55,
+      "profile_8": 55,
+      "profile_9": 55,
+      "profile_10": 55,
+      "profile_11": 55,
+      "profile_12": 55
+    },
+    "seating": []
+  },
+  {
+    "file": "C-500-black-OEM-CS13093419-mod-120amp.R-net",
+    "size": 6547,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "0000df1a",
+      "checksum": "575a0000"
+    },
+    "speed_profiles": [
+      {
+        "name": "Indoor",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Normal",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 3",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 4",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 5",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 6",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 7",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "Attendant",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 55,
+      "profile_2": 55,
+      "profile_3": 55,
+      "profile_4": 55,
+      "profile_5": 55,
+      "profile_6": 55,
+      "profile_7": 55,
+      "profile_8": 55,
+      "profile_9": 55,
+      "profile_10": 55,
+      "profile_11": 55,
+      "profile_12": 55
+    },
+    "seating": [
+      {
+        "name": "Recline",
+        "speed": 84
+      },
+      {
+        "name": "Tilt",
+        "speed": 70
+      }
+    ]
+  },
+  {
+    "file": "CR15070953-OEM-jan-2019.R-net",
+    "size": 7814,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "0000622c",
+      "checksum": "525c0000"
+    },
+    "speed_profiles": [
+      {
+        "name": "Indoor",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Normal",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 3",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 4",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 5",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 6",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 7",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "Attendant",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 100,
+      "profile_2": 100,
+      "profile_3": 100,
+      "profile_4": 100,
+      "profile_5": 100,
+      "profile_6": 100,
+      "profile_7": 100,
+      "profile_8": 100,
+      "profile_9": 100,
+      "profile_10": 100,
+      "profile_11": 100,
+      "profile_12": 100
+    },
+    "seating": [
+      {
+        "name": "Recline",
+        "speed": 84
+      },
+      {
+        "name": "Tilt",
+        "speed": 70
+      }
+    ]
+  },
+  {
+    "file": "C-500-black-OEM-CS13093419-mod.R-net",
+    "size": 7731,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "0000e218",
+      "checksum": "575a0000"
+    },
+    "speed_profiles": [
+      {
+        "name": "Indoor",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Normal",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 3",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 4",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 5",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 6",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 7",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "Attendant",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 55,
+      "profile_2": 55,
+      "profile_3": 55,
+      "profile_4": 55,
+      "profile_5": 55,
+      "profile_6": 55,
+      "profile_7": 55,
+      "profile_8": 55,
+      "profile_9": 55,
+      "profile_10": 55,
+      "profile_11": 55,
+      "profile_12": 55
+    },
+    "seating": [
+      {
+        "name": "Recline",
+        "speed": 84
+      },
+      {
+        "name": "Tilt",
+        "speed": 70
+      }
+    ]
+  },
+  {
+    "file": "CR15070953-OEM-jan-2019-brakes-mod.R-net",
+    "size": 6630,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "0000622c",
+      "checksum": "525c0000"
+    },
+    "speed_profiles": [
+      {
+        "name": "Indoor",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Normal",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 3",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 4",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 5",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 6",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 7",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "Attendant",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 100,
+      "profile_2": 100,
+      "profile_3": 100,
+      "profile_4": 100,
+      "profile_5": 100,
+      "profile_6": 100,
+      "profile_7": 100,
+      "profile_8": 100,
+      "profile_9": 100,
+      "profile_10": 100,
+      "profile_11": 100,
+      "profile_12": 100
+    },
+    "seating": [
+      {
+        "name": "Recline",
+        "speed": 84
+      },
+      {
+        "name": "Tilt",
+        "speed": 70
+      }
+    ]
+  },
+  {
+    "file": "CR14060137-OEM.R-net",
+    "size": 7429,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "00009f0c",
+      "checksum": "5f5e0000"
+    },
+    "speed_profiles": [
+      {
+        "name": "idiot mode",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Standard",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "StandardPWR",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "DANGEROUS",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "PWR-Tremor",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "OUTDOOR 1",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "OUTDOOR 2",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "ATTENDANT",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 100,
+      "profile_2": 100,
+      "profile_3": 100,
+      "profile_4": 100,
+      "profile_5": 100,
+      "profile_6": 100,
+      "profile_7": 100,
+      "profile_8": 100,
+      "profile_9": 100,
+      "profile_10": 100,
+      "profile_11": 100,
+      "profile_12": 100
+    },
+    "seating": []
+  },
+  {
+    "file": "CR14060137-OEM-MOD.R-net",
+    "size": 6369,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "00009f0c",
+      "checksum": "5f5e0000"
+    },
+    "speed_profiles": [
+      {
+        "name": "idiot mode",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Standard",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "StandardPWR",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "DANGEROUS",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "PWR-Tremor",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "OUTDOOR 1",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "OUTDOOR 2",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "ATTENDANT",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 100,
+      "profile_2": 100,
+      "profile_3": 100,
+      "profile_4": 100,
+      "profile_5": 100,
+      "profile_6": 100,
+      "profile_7": 100,
+      "profile_8": 100,
+      "profile_9": 100,
+      "profile_10": 100,
+      "profile_11": 100,
+      "profile_12": 100
+    },
+    "seating": []
+  },
+  {
+    "file": "flag chair backup 2017.R-net",
+    "size": 3795,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "00007ae4",
+      "checksum": "2d5a0000"
+    },
+    "speed_profiles": [
+      {
+        "name": "Profile 3",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Standard",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 5",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 6",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 7",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "Attendant",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 0,
+      "profile_2": 0,
+      "profile_3": 0,
+      "profile_4": 0,
+      "profile_5": 0,
+      "profile_6": 0,
+      "profile_7": 0,
+      "profile_8": 255,
+      "profile_9": 100,
+      "profile_10": 1,
+      "profile_11": 0,
+      "profile_12": 1
+    },
+    "seating": [
+      {
+        "name": "Tilt",
+        "speed": 70
+      },
+      {
+        "name": "Leg",
+        "speed": 69
+      },
+      {
+        "name": "Recline",
+        "speed": 82
+      }
+    ]
+  },
+  {
+    "file": "flag-2017-jacobCS13061526.R-net",
+    "size": 5953,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "000067e6",
+      "checksum": "2d5a0000"
+    },
+    "speed_profiles": [
+      {
+        "name": "idiot mode",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Medium",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "Fast",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "DIABLO!!!",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 5",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 6",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 7",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "Attendant",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 100,
+      "profile_2": 100,
+      "profile_3": 100,
+      "profile_4": 100,
+      "profile_5": 100,
+      "profile_6": 100,
+      "profile_7": 100,
+      "profile_8": 100,
+      "profile_9": 100,
+      "profile_10": 100,
+      "profile_11": 100,
+      "profile_12": 100
+    },
+    "seating": [
+      {
+        "name": "Tilt",
+        "speed": 70
+      },
+      {
+        "name": "Recline",
+        "speed": 65
+      }
+    ]
+  },
+  {
+    "file": "flag-2017-jacob-2-CS13061526.R-net",
+    "size": 6121,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "0000d4ee",
+      "checksum": "2d5a0000"
+    },
+    "speed_profiles": [
+      {
+        "name": "idiot mode",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Medium",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "Fast",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 250
+      },
+      {
+        "name": "DIABLO!!!",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 5",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 6",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 7",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "Attendant",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 100,
+      "profile_2": 100,
+      "profile_3": 100,
+      "profile_4": 100,
+      "profile_5": 100,
+      "profile_6": 100,
+      "profile_7": 100,
+      "profile_8": 100,
+      "profile_9": 100,
+      "profile_10": 100,
+      "profile_11": 100,
+      "profile_12": 100
+    },
+    "seating": [
+      {
+        "name": "Tilt",
+        "speed": 70
+      },
+      {
+        "name": "Leg",
+        "speed": 65
+      },
+      {
+        "name": "Recline",
+        "speed": 65
+      }
+    ]
+  },
+  {
+    "file": "CS21054090-OEM_mod_first.R-net",
+    "size": 7522,
+    "header": {
+      "magic": "03000000",
+      "version": "1f1c0300",
+      "flags": "00000000",
+      "config_type": "00010300",
+      "timestamp": "000030ba",
+      "checksum": "95610000"
+    },
+    "speed_profiles": [
+      {
+        "name": "Indoor",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Normal",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 3",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 4",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 5",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 6",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 249
+      },
+      {
+        "name": "Profile 7",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 248
+      },
+      {
+        "name": "Attendant",
+        "max_forward": 32,
+        "max_reverse": 32,
+        "fwd_accel": 32,
+        "fwd_decel": 32,
+        "turn_speed": 0
+      }
+    ],
+    "motor_limits": {
+      "profile_1": 0,
+      "profile_2": 200,
+      "profile_3": 8,
+      "profile_4": 100,
+      "profile_5": 1,
+      "profile_6": 120,
+      "profile_7": 100,
+      "profile_8": 4,
+      "profile_9": 0,
+      "profile_10": 0,
+      "profile_11": 0,
+      "profile_12": 0
+    },
+    "seating": []
+  }
+]

@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Editor/IDE
+*.swp
+*.swo
+*.kate-swp
+*~
+.vscode/
+.idea/
+
+# OS artifacts
+.DS_Store
+__MACOSX/
+Thumbs.db
+
+# Office temp files
+~$*
+*.ods#
+
+# Claude Code
+.claude/
+.firecrawl/
+
+# Binaries and media (not tracked)
+*.bin
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.mov
+*.wav
+*.ods
+*.odp
+*.pptx
+*.rar
+
+# Archives
+*.zip
+*.tar.gz
+
+# Build artifacts
+.pio/
+.pioenvs/
+*.o
+*.elf
+*.hex
+
+# Platformio
+.clang_complete
+.gcc-flags.json
+
+# Kismet captures
+Kismet-*
+
+# Backup files
+*.save
+*.bak
+
+# R-Net Programmer software (not distributed)
+R-net Programmer*/
+ProgramData*/

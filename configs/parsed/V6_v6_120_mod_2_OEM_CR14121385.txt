@@ -1,0 +1,54 @@
+======================================================================
+R-NET CONFIGURATION: v6 120 mod-2 OEM CR14121385.R-net
+======================================================================
+
+BASIC INFO
+----------------------------------------
+  File size:     6121 bytes
+  Serial:        CR14121385
+  Header magic:  03000000
+  Checksum:      00007634
+  XOR patterns:  20
+
+MODE PROFILES
+----------------------------------------
+  Mode                 @ 0x01C9
+
+SPEED PROFILES
+----------------------------------------
+  Name                   Fwd   Rev   Acc   Dec  Turn
+  -------------------- ----- ----- ----- ----- -----
+  SLOWEST                 32    32    32    32     0
+  SLOW                    32    32    32    32     0
+  MED                     32    32    32    32     0
+  FAST                    32    32    32    32     0
+  V6AT FAST               32    32    32    32     0
+  Profile 6               32    32    32    32     0
+  Profile 7               32    32    32    32     0
+  Attendant               32    32    32    32     0
+
+MOTOR SETTINGS
+----------------------------------------
+  Base current:  55%
+  Max current:   55%
+
+  Profile current limits:
+    Profile 1:  55%  (offset 0x0B23)
+    Profile 2:  55%  (offset 0x0B30)
+    Profile 3:  55%  (offset 0x0B3D)
+    Profile 4:  55%  (offset 0x0B4A)
+    Profile 5:  55%  (offset 0x0B57)
+    Profile 6:  55%  (offset 0x0B64)
+    Profile 7:  55%  (offset 0x0B71)
+    Profile 8:  55%  (offset 0x0B7E)
+    Profile 9:  55%  (offset 0x0B8B)
+    Profile 10:  55%  (offset 0x0B98)
+    Profile 11:  55%  (offset 0x0BA5)
+    Profile 12:  55%  (offset 0x0BB2)
+
+SEATING FUNCTIONS
+----------------------------------------
+  Elevator         @ 0x088A  speed=32
+  Recline          @ 0x089E  speed=32
+  Tilt             @ 0x08B1  speed=32
+

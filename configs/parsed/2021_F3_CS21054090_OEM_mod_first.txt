@@ -1,0 +1,45 @@
+======================================================================
+R-NET CONFIGURATION: CS21054090-OEM_mod_first.R-net
+======================================================================
+
+BASIC INFO
+----------------------------------------
+  File size:     7522 bytes
+  Serial:        CS21054090
+  Header magic:  03000000
+  Checksum:      000030ba
+  XOR patterns:  20
+
+SPEED PROFILES
+----------------------------------------
+  Name                   Fwd   Rev   Acc   Dec  Turn
+  -------------------- ----- ----- ----- ----- -----
+  Indoor                  32    32    32    32     0
+  Normal                  32    32    32    32     0
+  Profile 3               32    32    32    32     0
+  Profile 4               32    32    32    32     0
+  Profile 5               32    32    32    32     0
+  Profile 6               32    32    32    32     0
+  Profile 7               32    32    32    32     0
+  Attendant               32    32    32    32     0
+  2Pd22                    0     1   132   247   100
+
+MOTOR SETTINGS
+----------------------------------------
+  Base current:  0%
+  Max current:   200%
+
+  Profile current limits:
+    Profile 1:   0%  (offset 0x0B23)
+    Profile 2: 200%  (offset 0x0B30)
+    Profile 3:   8%  (offset 0x0B3D)
+    Profile 4: 100%  (offset 0x0B4A)
+    Profile 5:   1%  (offset 0x0B57)
+    Profile 6: 120%  (offset 0x0B64)
+    Profile 7: 100%  (offset 0x0B71)
+    Profile 8:   4%  (offset 0x0B7E)
+    Profile 9:   0%  (offset 0x0B8B)
+    Profile 10:   0%  (offset 0x0B98)
+    Profile 11:   0%  (offset 0x0BA5)
+    Profile 12:   0%  (offset 0x0BB2)
+
