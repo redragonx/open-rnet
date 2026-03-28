@@ -2,6 +2,7 @@
 
 [![DEFCON24](https://img.shields.io/badge/DEFCON-24-red.svg)](https://www.defcon.org/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2.svg?logo=discord&logoColor=white)](https://discord.gg/mYqJSS5)
 
 ![Open R-Net - Wheelchair CAN Bus Hacking](youtube_thumbnail.png)
 
